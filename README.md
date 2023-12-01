@@ -24,12 +24,30 @@ On a personal level, I'm not just a diligent worker; I'm deeply passionate about
   * Obtained strong foundational knowledge in Data analytics.
   * Empowered with practical skills in data analysis, visualization, and interpretation.
 
+* **B1 Business English Certificate Preliminary**
+  * Cambridge University Press & Assessment English
+  * Issued Jan 2020
+  * Credential ID Ref-19BIN0921429
+  * `Overall score - 148` `CEFR LEVEL - B1(Pass)`
+
 # SKILLS
 **`Data Analysis`** **`Data Visualization`** **`Markdown`**
 **`MS-Excel`** **`R`** **`SQL`** **`Python`** **`Tableau`**  **`Big-Query`**
+**`Hyper-focused work ethic`** **`Team collaboration`** **`Curiousity`** **`Dilligence`**
 
 # PROJECTS
 1. [CYCLISTIC BIKE SHARE ANALYSIS](Data-analysis-Projects/Cyclistic%20bike%20share%20analysis)
 2. [EMPLOYEE ATTRITION ANALYSIS](Data-analysis-Projects/Employee%20Attrition%20Analysis)
 
----
+# HOBBIES
+* Online Research and Exploration:
+  Beyond my career growth, I enjoy staying updated on the latest tools and technologies that pique my interest.
+  * `Adobe Express` - Occasionally create brochures, banners, logos, and invitations.
+  * `HackerRank` - Constantly spending time improving my programming skills.
+  * `Blender` - 3D modeling; this skill was utilized in an academic project.
+* Admiring the Korean language and entertainment industry:
+  * Achieved a significant milestone in my language journey: I can now read and write HANGUL and can understand a few daily conversations.
+  * I'm a big fan of K-POP, and you'll often find me immersed in the latest K-DRAMAS and K-MOVIES.
+ 
+ **THANK YOU**
+ --
