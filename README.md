@@ -36,8 +36,11 @@ On a personal level, I'm not just a diligent worker; I'm deeply passionate about
 **`Hyper-focused work ethic`** **`Team collaboration`** **`Curiousity`** **`Dilligence`**
 
 # PROJECTS
-1. [CYCLISTIC BIKE SHARE ANALYSIS](Data-analysis-Projects/Cyclistic%20bike%20share%20analysis)
-2. [EMPLOYEE ATTRITION ANALYSIS](Data-analysis-Projects/Employee%20Attrition%20Analysis)
+| SL.NO |     PROJECT NAME      | DATE OF COMPLETION     |
+| :---- | :---- | ----: |
+| 1. |  [EMPLOYEE ATTRITION ANALYSIS](https://github.com/Riyavarshini/Data-analysis-Projects/tree/main/Employee%20Attrition%20Analysis)  | NOV 2023 |
+| 2. | [CYCLISTIC BIKE SHARE ANALYSIS](https://github.com/Riyavarshini/Data-analysis-Projects/tree/main/Cyclistic%20bike%20share%20analysis) | JULY 2023 |
+
 
 # HOBBIES
 * Online Research and Exploration:
